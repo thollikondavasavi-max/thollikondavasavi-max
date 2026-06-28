@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi 👋 I'm Thollikonda Vasavi<br>A final-year B.Tech Computer Science (AI) student passionate about Artificial Intelligence, Machine Learning, Data Analytics, and Software Development. I enjoy building real-world AI solutions and continuously learning new technologies.<br><br>🎓 Final-year B.Tech (Computer Science & AI)<br>💻 Interested in AI, Machine Learning, Medical AI projects, and Networking<br>📚 Currently preparing for placements and improving Excel, Power BI, and Data Analytics skills<br>🎯 Applied for roles like Cisco FY27<br>
+Hi 👋 I'm Thollikonda Vasavi<br>A final-year B.Tech Computer Science (AI) student passionate about Artificial Intelligence, Machine Learning, Data Analytics, and Software Development. I enjoy building real-world AI solutions and continuously learning new technologies.<br><br>🎓 Final-year B.Tech (Computer Science & AI)<br>💻 Interested in AI, Machine Learning, Medical AI projects, and Networking<br>Analytics skills<br>🎯 Applied for roles like Cisco FY27<br>
 
 
 ## 🌐 Socials:
